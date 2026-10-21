@@ -1,0 +1,16 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local credentials and Streamlit secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Runtime logs and generated reports
+app_errors.log
+*.log
+class_quality_report.json
