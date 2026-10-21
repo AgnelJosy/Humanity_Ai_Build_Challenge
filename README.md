@@ -1,6 +1,6 @@
 # Class Quality Analyzer
 
-A Streamlit application that assesses class-recording transcripts against a five-tier teaching-quality rubric using Google Gemini or OpenAI.
+An AI-powered Streamlit application for assessing online class-recording transcripts and classifying them as Excellent, Good, Average, Weak, or Known Quality Issues. It can use Google Gemini or OpenAI.
 
 ## Local setup
 
